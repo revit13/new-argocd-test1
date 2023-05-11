@@ -2,7 +2,7 @@ apiVersion: app.fybrik.io/v1beta1
 kind: Blueprint
 metadata:
   annotations:
-    app.fybrik.io/app-uuid: 90cb6c2c-807a-4b5b-b0f1-e9818e3e2809
+    app.fybrik.io/app-uuid: 8b27496f-738d-4618-8226-46bfe3f6fb5b
   creationTimestamp: null
   finalizers:
   - Blueprint.finalizer
